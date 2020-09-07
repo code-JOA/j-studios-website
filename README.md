@@ -1,11 +1,17 @@
 # j-studios-website
 
-```python
+
 # Author : Joshua Owusu Ankomah
+
+
+### This is a simple portfolio company website
+
+```python
+
 ```
 
 ```python
-### This is a simple portfolio company website
+
 ```
 
 ![](images/wireframe.png)
