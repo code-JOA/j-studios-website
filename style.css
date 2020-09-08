@@ -54,13 +54,35 @@ button:hover{
   z-index: 2;
 }
 
+#btnhome {
+    margin-left: 121px;
+    margin-top: 1px;
+    width: 84px;
+    height: 45px;
+    background: transparent;
+    border: none;
+    color: white;
+    font-size:14px;
+    font-weight:700;
+}
+
+.about {
+  color: #fbfcfd;
+  position: absolute;
+  top: 50%;
+  left: 80%;
+  padding: 2rem;
+  transform: translateY(-50%);
+  z-index: 2;
+}
+
 h1{
   font-size: 80px;
   margin: 10px 0 30px;
   line-height: 80px;
 }
 
-.side-bar{
+/* .side-bar{
   width: 50px;
   height: 100vh;
   background: linear-gradient(#00545d, #000729);
@@ -74,4 +96,4 @@ h1{
   width: 25px;
   margin: 40px auto 0;
   cursor: pointer;
-}
+} */
