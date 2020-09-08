@@ -20,9 +20,13 @@
 
 ```
 
-```python
+# Final Wireframe
 
-```
+
+![](images/wireframe_final.png)
+
+
+![](images/wireframe_socials.png)
 
 ```python
 
