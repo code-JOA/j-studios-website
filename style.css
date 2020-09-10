@@ -39,6 +39,16 @@ button{
   cursor: pointer;
 }
 
+li{
+  color: #fff;
+  /* padding: 10px 25px;
+  background: transparent;
+  border: 1px solid #fff;
+  border-radius: 20px;
+  outline: none; */
+  cursor: pointer;
+}
+
 button:hover{
   transition: 0.8s;
   text-shadow: 0 0 10px #00fff2,0 0 20px #00fff2,0 0 30px #00fff2,0 0 40px #00fff2,0 0 50px #00fff2,
