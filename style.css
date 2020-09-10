@@ -41,12 +41,14 @@ button{
 
 li{
   color: #fff;
-  /* padding: 10px 25px;
+  padding: 10px 25px;
   background: transparent;
   border: 1px solid #fff;
   border-radius: 20px;
-  outline: none; */
+  outline: none;
   cursor: pointer;
+  text-decoration: none;
+
 }
 
 button:hover{
